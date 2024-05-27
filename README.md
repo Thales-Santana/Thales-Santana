@@ -41,8 +41,3 @@
 
 ## EXPERIÊNCIA PROFISSIONAL
 Serving at Cox Automotive Brazil since 09/2022
-
-## SKILL
-
-
-## HARD SKILL
