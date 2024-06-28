@@ -1,13 +1,13 @@
 ## Social Midia 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-santana-8003a6214) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalessantana-8003a6214) 
 
 
-![THALES'S GitHub stats](https://github-readme-stats.vercel.app/api?username=Thales-Santana&show_icons=true&theme=transparent)
+![THALES'S GitHub stats](https://github-readme-stats.vercel.app/api?username=thalessantana&show_icons=true&theme=transparent)
 
 ## Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Santana&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalessantana&langs_count=8&theme=dark)
 
 ## Technologies and Tools
 
